@@ -30,7 +30,6 @@ POSTGRES_DB=
 
 DATABASE_URL=postgresql://$POSTGRES_USER:$POSTGRES_PASSWORD@postgres:5432/$POSTGRES_DB
 FLASK_ENV=production
-SECRET_KEY=your_secret_key
 EOL
 fi
 
